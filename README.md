@@ -1,2 +1,2 @@
 # Applicant-Tracking-System
-AI bases Resume Shortlisting.
+AI based Resume Shortlisting.
